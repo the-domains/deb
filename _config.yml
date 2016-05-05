@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.6600429
+  saturation: 0.7556391
   brandStrength: 0.4435074566863477
-  lightness: 0.4484425
+  lightness: 0
   brandColors:
     - '#A5A4A9'
     - '#1B222A'
     - '#F5BCA8'
     - '#050100'
     - '#83625B'
-  rhythmicContrast: 0.7094867
+  rhythmicContrast: 0
 typography_spectrum: 0.25025
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 1
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Deb
