@@ -1,6 +1,6 @@
 name: Deb
 favicon: null
-layout_spectrum: 0.84147
+layout_spectrum: 0.11565
 typography_spectrum: 0.080835364991799
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#c6e271'
   brandStrength: 0.4435074566863477
   lightness: 0.2678179922513664
-  saturation: 0.6823557468596846
+  saturation: 0.6875
   rhythmicContrast: 0.7094867303967476
 purpose: []
