@@ -1,4 +1,5 @@
-layout_spectrum: 1
+favicon: null
+name: Deb
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#83625B'
   rhythmicContrast: 0.7094867303967476
 typography_spectrum: 0.25025
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Deb
+cta:
+  bucket: null
+  version: null
+  domain: null
