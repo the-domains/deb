@@ -1,28 +1,40 @@
-name: Deb
 favicon: null
-layout_spectrum: 0.11565
-typography_spectrum: 0.25025
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Deb
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#090708'
-    - '#dccfd6'
-    - '#bba58e'
-    - '#55443d'
-    - '#c6e271'
+  saturation: 0.6875
   brandStrength: 0.4435074566863477
   lightness: 0.2678179922513664
-  saturation: 0.6875
+  brandColors:
+    - '#A5A4A9'
+    - '#1B222A'
+    - '#F5BCA8'
+    - '#050100'
+    - '#83625B'
   rhythmicContrast: 0.7094867303967476
-purpose: []
+typography_spectrum: 0.25025
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.11565
+analytics:
+  twitter: null
+  google: null
+  facebook: null
